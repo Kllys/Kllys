@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kllys
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasvascript/javascript-plain.svg">
+  <img aling="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <!--
