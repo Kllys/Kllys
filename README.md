@@ -53,10 +53,3 @@ Automation Systems • n8n
 Build once.  
 Structure properly.  
 Scale deliberately.
-
----
-
-## Metrics & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendsonKllysman&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendsonKllysman&layout=compact&hide_border=true)
