@@ -1,4 +1,4 @@
-# Brendson Kllysman
+# Kllysman
 
 Founder & Builder @ Exceeds Group  
 Designing scalable technology companies.
