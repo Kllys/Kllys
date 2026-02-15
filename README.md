@@ -1,22 +1,62 @@
-### Olá, eu sou o Kllys
+# Brendson Kllysman
 
-<div style="display: inline_block"><br>
-  <img aling="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img aling="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+Founder & Builder @ Exceeds Group  
+Designing scalable technology companies.
 
-<!--
-**Kllys/Kllys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Exceeds Group
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exceeds Group is a technology holding focused on building, structuring and scaling digital products.
+
+Core pillars:
+- Product Architecture
+- Infrastructure & DevOps
+- Automation Systems
+- Commercial Digital Assets
+- Long-term scalability
+
+The objective is not just to ship software —  
+but to design systems that compound.
+
+---
+
+## Portfolio
+
+### Disboard Software
+SaaS platforms and commercial digital products focused on operational efficiency and digital growth.
+
+(Future ventures structured under Exceeds Group.)
+
+---
+
+## Operating Focus
+
+- CI/CD standardization across projects  
+- Docker-based production environments  
+- Scalable SaaS system architecture  
+- Infrastructure as a strategic asset  
+- Operational repeatability  
+
+---
+
+## Technology Stack
+
+Node.js • TypeScript • PostgreSQL  
+Docker • Linux • GitHub Actions  
+Automation Systems • n8n  
+
+---
+
+## Philosophy
+
+Build once.  
+Structure properly.  
+Scale deliberately.
+
+---
+
+## Metrics & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendsonKllysman&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendsonKllysman&layout=compact&hide_border=true)
