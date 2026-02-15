@@ -1,50 +1,56 @@
 # Kllysman
 
-Founder @ Exceeds Group
-Building scalable technology systems.
+Founder & Systems Builder
+Building structured SaaS ecosystems through architectural discipline.
 
 ---
 
 ## Exceeds Group
 
-Technology holding focused on designing and scaling digital assets.
+Technology holding focused on building, structuring, and scaling long-term digital assets.
 
-**Core focus**
+**Core pillars**
 
-* Architecture-first products
-* Infrastructure as leverage
-* Automation systems
-* Long-term compounding models
+* Architecture-first product design
+* Infrastructure as strategic leverage
+* Automation-driven operations
+* Governance and long-term scalability
+
+The objective is not simply to ship software, but to design systems that compound.
 
 ---
 
-## Portfolio
+## Operating Company
 
 ### Disboard Software
 
-Vertical SaaS company building structured digital systems.
+Vertical SaaS operating company focused on structured digital systems for service-led industries.
 
-**Active Products**
+**Active Initiatives**
 
-• **Barbershop SaaS**
-Management & smart scheduling platform for modern barbershops.
+* **Barbershop SaaS**
+  Management and scheduling platform for appointment-driven operations.
 
-• **Hogo Pet Care SaaS**
-Home veterinary service platform connecting tutors and professionals.
+* **Pet Care SaaS**
+  Home veterinary coordination platform designed for structured service workflows.
 
 ---
 
 ## Operating Model
 
-CI/CD standardized • Docker-based environments •
-Scalable SaaS architecture • Infrastructure-driven execution
+* CI/CD standardization across products
+* Docker-first production environments
+* Infrastructure reuse across verticals
+* Documentation-driven development
+* Security and reliability as baseline requirements
 
 ---
 
-## Stack
+## Technology Foundation
 
 Node.js • TypeScript • PostgreSQL
 Docker • Linux • GitHub Actions
+Automation systems and operational tooling
 
 ---
 
