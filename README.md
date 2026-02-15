@@ -26,8 +26,6 @@ but to design systems that compound.
 ### Disboard Software
 SaaS platforms and commercial digital products focused on operational efficiency and digital growth.
 
-(Future ventures structured under Exceeds Group.)
-
 ---
 
 ## Operating Focus
