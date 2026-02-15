@@ -1,53 +1,52 @@
 # Kllysman
 
-Founder & Builder @ Exceeds Group  
-Designing scalable technology companies.
+Founder @ Exceeds Group
+Building scalable technology systems.
 
 ---
 
 ## Exceeds Group
 
-Exceeds Group is a technology holding focused on building, structuring and scaling digital products.
+Technology holding focused on designing and scaling digital assets.
 
-Core pillars:
-- Product Architecture
-- Infrastructure & DevOps
-- Automation Systems
-- Commercial Digital Assets
-- Long-term scalability
+**Core focus**
 
-The objective is not just to ship software —  
-but to design systems that compound.
+* Architecture-first products
+* Infrastructure as leverage
+* Automation systems
+* Long-term compounding models
 
 ---
 
 ## Portfolio
 
 ### Disboard Software
-SaaS platforms and commercial digital products focused on operational efficiency and digital growth.
+
+Vertical SaaS company building structured digital systems.
+
+**Active Products**
+
+• **Barbershop SaaS**
+Management & smart scheduling platform for modern barbershops.
+
+• **Hogo Pet Care SaaS**
+Home veterinary service platform connecting tutors and professionals.
 
 ---
 
-## Operating Focus
+## Operating Model
 
-- CI/CD standardization across projects  
-- Docker-based production environments  
-- Scalable SaaS system architecture  
-- Infrastructure as a strategic asset  
-- Operational repeatability  
+CI/CD standardized • Docker-based environments •
+Scalable SaaS architecture • Infrastructure-driven execution
 
 ---
 
-## Technology Stack
+## Stack
 
-Node.js • TypeScript • PostgreSQL  
-Docker • Linux • GitHub Actions  
-Automation Systems • n8n  
+Node.js • TypeScript • PostgreSQL
+Docker • Linux • GitHub Actions
 
 ---
 
-## Philosophy
-
-Build once.  
-Structure properly.  
+Build structured.
 Scale deliberately.
